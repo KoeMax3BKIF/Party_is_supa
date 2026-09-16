@@ -1,4 +1,4 @@
-TODO 
-Spiele: Bob
+TODO
+Spiele: Ari,Bob
 Trinken:
 Snacks:
