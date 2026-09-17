@@ -1,4 +1,10 @@
 TODO
+<<<<<<< HEAD
 Spiele: Ari,Bob,Parii
 Trinken: 
 Snacks: 
+=======
+Spiele: Ari,Bob
+Trinken:
+Snacks: Pizza
+>>>>>>> refs/remotes/origin/main
