@@ -1,4 +1,4 @@
 TODO
-Spiele: Ari,Bob
-Trinken:
-Snacks:
+Spiele: Ari,Bob,Parii
+Trinken: 
+Snacks: 
