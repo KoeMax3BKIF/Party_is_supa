@@ -1,4 +1,4 @@
 TODO
 Spiele: Ari,Bob
 Trinken:
-Snacks:
+Snacks: Pizza
